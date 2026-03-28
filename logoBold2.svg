@@ -8,7 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="logoBold.svg"
+   sodipodi:docname="logoBold2.svg"
+   inkscape:export-filename="logoBold2.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.125"
-     inkscape:cx="2156"
-     inkscape:cy="628"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-239.00209"
+     inkscape:cy="541.6438"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -59,32 +62,23 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:15.916;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:23.2289;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect2-4"
-       width="14.084201"
+       width="30"
        height="200"
-       x="808.82129"
+       x="800.8634"
        y="105.30257"
-       rx="7.0421004"
+       rx="0"
        ry="0" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:16.0748;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2-8-3"
-       width="13.925171"
-       height="100"
-       x="711.41504"
-       y="-529.12823"
-       rx="6.9625854"
-       transform="rotate(45)" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:16.0748;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect2-8-8-1"
-       width="13.925171"
-       height="100"
-       x="-434.9985"
-       y="-819.46844"
-       rx="6.9625854"
-       transform="rotate(135)" />
+    <g
+       id="g5"
+       transform="translate(209.80128,-0.94739347)">
+      <path
+         id="rect2-4-2"
+         style="stroke-width:16.4253;paint-order:fill markers stroke"
+         d="m 670.55936,135.53929 -49.49724,49.49776 -24.34167,21.21317 24.34167,21.21318 49.49724,49.49723 21.21317,-21.21317 -49.49723,-49.49724 49.49723,-49.49775 z"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
     <circle
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4221;stroke-dasharray:none;stroke-opacity:1"
        id="path2-2"
